@@ -4,3 +4,4 @@ python-dotenv
 yfinance
 crewai[litellm]
 litellm==1.105.1
+streamlit
